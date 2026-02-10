@@ -26,7 +26,7 @@
 
 ## <a name="results"></a> Results
 
-<details>
+<details open>
 <summary>Click to expand</summary>
 
 - quantitative comparisons in Table 1 and 2 (main paper)
