@@ -4,7 +4,7 @@
 
 "AdaTSQ: Pushing the Pareto Frontier of Diffusion Transformers via Temporal-Sensitivity Quantization", arXiv, 2026
 
-[[arXiv](https://arxiv.org/abs/)] [[Supplementary Material](https://github.com)]
+[[arXiv](https://arxiv.org/abs/2602.09883)]
 
 #### 🔥🔥🔥 News
 
@@ -60,10 +60,13 @@
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-@article{zhang2026adatsq,
-  title={AdaTSQ: Pushing the Pareto Frontier of Diffusion Transformers via Temporal-Sensitivity Quantization},
-  author={Zhang, Shaoqiu and Ding, Zizhong and Yang, Kaicheng and Wu, Junyi and Yan, Xianglong and Li, Xi and Duan, Bingnan and Fang, Jianping and Zhang, Yulun},
-  journal={arXiv preprint arXiv},
-  year={2026}
+@misc{zhang2026adatsqpushingparetofrontier,
+      title={AdaTSQ: Pushing the Pareto Frontier of Diffusion Transformers via Temporal-Sensitivity Quantization},
+      author={Shaoqiu Zhang and Zizhong Ding and Kaicheng Yang and Junyi Wu and Xianglong Yan and Xi Li and Bingnan Duan and Jianping Fang and Yulun Zhang},
+      year={2026},
+      eprint={2602.09883},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.09883},
 }
 ```
